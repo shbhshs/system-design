@@ -1,4 +1,4 @@
-# nodejs resources
+# system design
 > A list of resources for system design
 >
 > Maintainer: [Shubham Singh](https://github.com/shbhshs)
