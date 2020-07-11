@@ -9,3 +9,4 @@
 ## Articles
 * [Reliable reprocessing](https://eng.uber.com/reliable-reprocessing/) from Uber-eng
 * High velocity [data-ingestion](https://thevivekpandey.github.io/posts/2017-09-19-high-velocity-data-ingestion.html) by Vivek Pandey
+* [Exactly once delivery system](https://segment.com/blog/exactly-once-delivery/)
