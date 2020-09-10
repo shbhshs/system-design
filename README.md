@@ -11,3 +11,4 @@
 * High velocity [data-ingestion](https://thevivekpandey.github.io/posts/2017-09-19-high-velocity-data-ingestion.html) by Vivek Pandey
 * [Exactly once delivery system](https://segment.com/blog/exactly-once-delivery/)
 * [Linkedin's datahub](https://engineering.linkedin.com/blog/2019/data-hub)
+* [Sequence of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
