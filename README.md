@@ -12,3 +12,4 @@
 * [Exactly once delivery system](https://segment.com/blog/exactly-once-delivery/)
 * [Linkedin's datahub](https://engineering.linkedin.com/blog/2019/data-hub)
 * [Sequence of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
+* [Backpressure](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7)
