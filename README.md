@@ -5,6 +5,8 @@
 
 ## Table of Contents
   - [Articles](##articles)
+  - [Videos](##videos)
+  - [Interesting Reads](interesting reads)
 
 ## Articles
 * [Reliable reprocessing](https://eng.uber.com/reliable-reprocessing/) from Uber-eng
@@ -13,3 +15,12 @@
 * [Linkedin's datahub](https://engineering.linkedin.com/blog/2019/data-hub)
 * [Sequence of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
 * [Backpressure](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7)
+
+
+## Videos
+* [Netflix JavaScript Talks - Real-time Insights powered by Reactive Programming](https://www.youtube.com/watch?v=uODxUJ5Jwis)
+
+
+
+## Interesting Reads
+- https://github.com/shbhshs/interesting-articles
