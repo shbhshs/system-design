@@ -15,6 +15,7 @@
 * [Linkedin's datahub](https://engineering.linkedin.com/blog/2019/data-hub)
 * [Sequence of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
 * [Backpressure](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7)
+* [Microservices and the layers to watch for when architecting your system](https://www.infoq.com/articles/consistency-coupling-complexity/)
 
 
 ## Videos
